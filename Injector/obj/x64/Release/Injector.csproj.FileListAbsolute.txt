@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Injector\Injector\bin\x64\Release\Injector.exe.config
+C:\Users\User\source\repos\Injector\Injector\bin\x64\Release\Injector.exe
+C:\Users\User\source\repos\Injector\Injector\obj\x64\Release\Injector.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Injector\Injector\obj\x64\Release\Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Injector\Injector\obj\x64\Release\Injector.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Injector\Injector\obj\x64\Release\Injector.exe
